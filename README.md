@@ -1,8 +1,7 @@
 ### Olá, Eu sou o Lucas Seguessi ✋
 #### Para entrar em contato comigo 👇
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-seguessi-801a1045/) 
-[![Linkedin](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lseguessi/)
-[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucas.seguessi@gmail.com)
+[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lseguessi/)
 
 ![Lseguessi GitHub stats](https://github-readme-stats.vercel.app/api?username=lseguessi&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lseguessi&layout=compact)](https://github.com/lseguessi/github-readme-stats)
